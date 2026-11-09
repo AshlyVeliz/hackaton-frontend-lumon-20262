@@ -1,0 +1,11 @@
+{
+  "rewrites": [
+    { "source": "/((?!\\.well-known/|assets/).*)", "destination": "/index.html" }
+  ],
+  "headers": [
+    {
+      "source": "/.well-known/lumon-verification.txt",
+      "headers": [{ "key": "Content-Type", "value": "text/plain; charset=utf-8" }]
+    }
+  ]
+}
