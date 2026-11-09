@@ -552,8 +552,8 @@ Si no aprueban, en la siguiente ronda se sortea a otro integrante, hasta que hay
 - React y rendimiento: virtualización, `key`, efectos y carreras, `ref`, memoización, code splitting.
 - HTTP y resiliencia: idempotencia, códigos de estado, `ETag`, concurrencia, `Retry-After`, backoff, caché.
 - Algoritmos y datos: componentes conexos, reglas de las cajas, índices de bloques, base64, cachés.
-- Tiempo real: SSE, WebSocket, tickets, códigos de cierre, latidos, varias pestañas, duplicados.
-- Imágenes, despliegue y accesibilidad: metadatos, hashes, RLS, variables de Vite, rewrites, CSP, ARIA.
+- Tiempo real: Server-Sent Events, tickets, reconexión, latidos, varias pestañas, duplicados.
+- Imágenes, archivos y accesibilidad: metadatos, hashes, recorte, subida con progreso, RLS, ARIA, foco.
 
 ### 3. Auditorías
 
