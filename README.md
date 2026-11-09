@@ -94,7 +94,7 @@ IA:** cualquiera de los tres puede salir sorteado y tendrá que responder solo.
 - **Servicios externos que ustedes configuran:** un hosting estático (Vercel, Netlify o Cloudflare Pages)
   y un storage de imágenes (Supabase Storage **o** Cloudinary). Las tres opciones tienen plan gratuito sin
   tarjeta.
-- **Repositorio:** el que reciben por GitHub Classroom.
+- **Repositorio:** uno público en la cuenta personal de un integrante, clonado de este (ver la tarea en Canvas).
 - **Evaluación:** CP1, CP2, CP4, CP5 y CP6 se evalúan por comportamiento **sobre su URL desplegada**, con
   un workspace de evaluación distinto al suyo. El CP3 es una revisión automática y una prueba presencial.
 - **Entrega:** último commit en `main` a las 2:00, desplegado.
@@ -119,8 +119,8 @@ IA:** cualquiera de los tres puede salir sorteado y tendrá que responder solo.
 - Fetch API (o `XMLHttpRequest` donde necesiten progreso de subida).
 - `WebSocket` nativo del navegador.
 
-El proyecto se crea con Vite (plantilla `react-ts`) en la raíz del repositorio que reciben, sin borrar sus
-archivos. Usen npm, suban `package-lock.json` y trabajen con Node 24 LTS.
+El proyecto se crea con Vite (plantilla `react-ts`) en la raíz de su repositorio, sin borrar los archivos que
+trae. Usen npm, suban `package-lock.json` y trabajen con Node 24 LTS.
 
 ### Permitido además
 
