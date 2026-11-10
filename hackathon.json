@@ -1,8 +1,8 @@
 {
-  "teamCode": "TEAM-000",
+  "teamCode": "TEAM-046",
   "teamName": "Nombre de la cuadrilla",
-  "deployUrl": "https://",
-  "storageProvider": "SUPABASE | CLOUDINARY",
+  "deployUrl": "https://hackaton-frontend-lumon-20262-sepia.vercel.app",
+  "storageProvider": "CLOUDINARY",
   "integrantes": [
     { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
     { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
